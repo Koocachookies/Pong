@@ -7,6 +7,5 @@ Vanilla and Chocolate Pong, a very sweet pong
 * Enter - Confirm selection
 * Escape - Exit
 
-## Thanks
+## Special Thanks
 To me
-To you
