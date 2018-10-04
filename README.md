@@ -8,4 +8,4 @@ Vanilla and Chocolate Pong, a very sweet pong
 * Escape - Exit
 
 ## Special Thanks
-To me and danigomez
+To Masahiro Sakurai
